@@ -81,7 +81,7 @@ Technicolor shall have the right to correct, adapt, modify, reverse engineer, di
 Article 6. Address.
 
 Any communication to Technicolor shall be made at the following address:
-franck.galpin@technicolor.com
+tchadmin-github@technicolor.com
 
 
 

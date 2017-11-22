@@ -34,7 +34,7 @@ Otherwise, directly run as:
 `ipython test_subic trained_model VGG_M_128 --m 8 --k 256 --testset any_dataset --nclass num_classes --split split_size --N dataset_size --img_path path_file`
 
 #### License 
-by downloading this program, you commit to comply with the license as stated in the license.txt file.
+by downloading this program, you commit to comply with the license as stated in the LICENSE.md file.
 
 #### Contact
 author: Jain Himalaya
