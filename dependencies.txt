@@ -1,0 +1,14 @@
+tensorflow 1.0.0
+algorithms used from tensorflow api Adam, GradientDescent.
+
+python 2.7.12
+modules from python: os, threading, argparse
+
+numpy 1.11.3
+used for random.randint(), arange(), load .npy file, numpy's ndarrays 
+
+cv2 3.2.0
+used its imread(), resize(), flip()
+
+We use VGG_M_128's architecture and caffe-model provided here http://www.vlfeat.org/matconvnet/pretrained/ 
+
